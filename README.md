@@ -1,5 +1,1 @@
-"# informaticsproject" 
-"# informaticsproject" 
-"# -1-2" 
-"# experiment1-2" 
-"# experiment1-2" 
+#'프로젝트(질문각)'파일에서의 설명
